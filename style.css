@@ -1,0 +1,11 @@
+.container{
+    width: 100%px;
+    height: 100px;
+    background-color: black;
+    color: aqua;
+    box-sizing: border-box;
+}
+
+h1{
+    color: brown;    ;
+}
